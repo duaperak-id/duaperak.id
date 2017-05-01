@@ -32,21 +32,6 @@ div.ffbs_stats {
     font-size: 0.8em;
 }
 
-div.ffbs_info {
-    -moz-border-radius: 3px;
-    border-radius:      3px;
-    border: 1px solid #404040;
-    background: #606060;
-    opacity: 0.95;
-    filter:progid:DXImageTransform.Microsoft.Alpha(opacity=95);
-    display: none;
-    position: absolute;
-    text-align: left;
-    padding: 2px 4px 4px 4px;
-    color: #e0e060;
-    z-index: 9999;
-}
-
 span.ffbs_info_bar {
     background: #ccee20;
     border: 1px solid #a0a020;
